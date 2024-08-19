@@ -354,6 +354,7 @@
 "Assets/Scripts/Animal.cs"
 "Assets/Scripts/Cat.cs"
 "Assets/Scripts/Dog.cs"
+"Assets/Scripts/MenuManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
